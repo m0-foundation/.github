@@ -1,5 +1,4 @@
-
-![m0-foundation-github](https://github.com/user-attachments/assets/82285168-032a-4d8a-b3c0-37af92c9f416)
+![m0_labs_cover](https://github.com/user-attachments/assets/61c73d8f-0d9b-4b9f-8b0c-9c1202e142bb)
 
 ## M0
 
