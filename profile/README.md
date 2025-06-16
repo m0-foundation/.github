@@ -1,24 +1,59 @@
-![m0_labs_cover](https://github.com/user-attachments/assets/61c73d8f-0d9b-4b9f-8b0c-9c1202e142bb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61c73d8f-0d9b-4b9f-8b0c-9c1202e142bb" alt="M0 Foundation Banner" style="max-width: 890px; width: 100%;">
+</p>
 
 ## M0
 
 M0 is a decentralized, on-chain protocol, as well as a set of off-chain standards and APIs, that allows institutional holders of high-quality collateral to issue fungible stablecoins.
 
-## M0 Foundation Github 
+## M0 Foundation Github
 
-M0 Foundation Github organization hosts the codebase of M0 on-chain protocol. The main projects are:
-- [protocol](https://github.com/m0-foundation/protocol) - an immutable protocol that enables minting and burning of $M token.
-- [ttg](https://github.com/m0-foundation/ttg) - a novel immutable governance mechanism that uses two tokens to optimize for voting participation.
-- [wrapped-m-token](https://github.com/m0-foundation/wrapped-m-token) - a non-rebasing $M token wrapper that allows preserving and forwarding yield to earners.
-- [m-portal](https://github.com/m0-foundation/m-portal) - a mechanism for bridging $M token to other chain using Wormhole NTT framework.
-- [m-portal-lite](https://github.com/m0-foundation/m-portal-lite) - a mechanism for bridging $M token to other chain using Hyperlane framework.
-- [common](https://github.com/m0-foundation/common) - a set of common contracts and libraries used across other projects.
-- [solana-m](https://github.com/m0-foundation/solana-m) - Solana $M bridging portals and earner programs.
+The M0 Foundation Github organization hosts the codebase for the M0 on-chain protocol. The main projects are organized below.
 
+<table style="width: 100%;">
+  <thead>
+    <tr>
+      <th style="text-align: left;">Repository</th>
+      <th style="text-align: left;">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/protocol">protocol</a></strong></td>
+      <td>An immutable protocol for minting and burning the <code>$M</code> token.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/ttg">ttg</a></strong></td>
+      <td>A novel, immutable two-token governance mechanism to optimize voting.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/wrapped-m-token">wrapped-m-token</a></strong></td>
+      <td>A non-rebasing <code>$M</code> token wrapper for preserving and forwarding yield.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/m-portal">m-portal</a></strong></td>
+      <td>A mechanism for bridging <code>$M</code> using the Wormhole NTT framework.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/m-portal-lite">m-portal-lite</a></strong></td>
+      <td>A mechanism for bridging <code>$M</code> using the Hyperlane framework.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/solana-m">solana-m</a></strong></td>
+      <td>Solana <code>$M</code> bridging portals and earner programs.</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/common">common</a></strong></td>
+      <td>A set of common contracts and libraries used across other projects.</td>
+    </tr>
+  </tbody>
+</table>
 
-## Additional Resources
+<br>
 
-- [Website](https://www.m0.org/)
-- [Twitter](https://x.com/m0foundation)
-- [Documentation](https://docs.m0.org/portal)
-- [Governance Portal](https://governance.m0.org/proposals/)
+<p align="center">
+  <a href="https://www.m0.org/"><strong>Website</strong></a> ·
+  <a href="https://docs.m0.org/portal"><strong>Documentation</strong></a> ·
+  <a href="https://x.com/m0foundation"><strong>Twitter</strong></a> ·
+  <a href="https://governance.m0.org/proposals/"><strong>Governance Portal</strong></a>
+</p>
