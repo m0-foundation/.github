@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/61c73d8f-0d9b-4b9f-8b0c-9c1202e142bb" alt="M0 Foundation Banner" style="max-width: 890px; width: 100%;">
+  <img width="1584" height="396" alt="Linkedin_employee_M0_banner (1)" src="https://github.com/user-attachments/assets/5fdb75c3-119e-43dc-a21c-0b46e04052e5" />
 </p>
 
 ## M0
 
-M0 is a decentralized, on-chain protocol, as well as a set of off-chain standards and APIs, that allows institutional holders of high-quality collateral to issue fungible stablecoins.
+M0 is the modular stablecoin infrastructure. For builders who've outgrown one-size-fits-all money.
 
 ## M0 Foundation Github
 
-The M0 Foundation Github organization hosts the codebase for the M0 on-chain protocol. The main projects are organized below.
+The M0 GitHub organization hosts the codebase for M0's on-chain and off-chain components.
 
 <table style="width: 100%;">
   <thead>
@@ -19,32 +19,40 @@ The M0 Foundation Github organization hosts the codebase for the M0 on-chain pro
   </thead>
   <tbody>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/protocol">protocol</a></strong></td>
-      <td>An immutable protocol for minting and burning the <code>$M</code> token.</td>
+      <td><strong><a href="https://github.com/m0-foundation/evm-m-extensions">EVM Extensions</a></strong></td>
+      <td>A modular framework for deploying EVM M0 Extensions, interoperable via M0 Swap Facility</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/ttg">ttg</a></strong></td>
-      <td>A novel, immutable two-token governance mechanism to optimize voting.</td>
+      <td><strong><a href="https://github.com/m0-foundation/solana-m-extensions">SVM Extensions</a></strong></td>
+      <td>A modular framework for deploying SVM M0 Extensions, interoperable via M0 Swap Facility</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/wrapped-m-token">wrapped-m-token</a></strong></td>
-      <td>A non-rebasing <code>$M</code> token wrapper for preserving and forwarding yield.</td>
+      <td><strong><a href="https://github.com/m0-foundation/m-portal">Portal V2</a></strong></td>
+      <td>M0 bridging portals utilizing LayerZero, Wormhole, and Hyperlane adapters</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/m-portal">m-portal</a></strong></td>
-      <td>A mechanism for bridging <code>$M</code> using the Wormhole NTT framework.</td>
+      <td><strong><a href="https://github.com/m0-foundation/liquidity-delivery">Limit Order Protocol</a></strong></td>
+      <td>M0 Intent-Based Liquidity Delivery Protocol</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/m-portal-lite">m-portal-lite</a></strong></td>
-      <td>A mechanism for bridging <code>$M</code> using the Hyperlane framework.</td>
+      <td><strong><a href="https://github.com/m0-foundation/protocol">EVM V1 Protocol</a></strong></td>
+      <td>An immutable M0 V1 Issuance Protocol</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/solana-m">solana-m</a></strong></td>
-      <td>Solana <code>$M</code> bridging portals and earner programs.</td>
+      <td><strong><a href="https://github.com/m0-foundation/solana-m">SVM V1 Protocol</a></strong></td>
+      <td>Solana M0 V1 Issuance Protocol</td>
     </tr>
     <tr>
-      <td><strong><a href="https://github.com/m0-foundation/common">common</a></strong></td>
-      <td>A set of common contracts and libraries used across other projects.</td>
+      <td><strong><a href="https://github.com/m0-foundation/ttg">TTG</a></strong></td>
+      <td>A novel, immutable two-token governance mechanism to optimize voting</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/wrapped-m-token">WrappedM</a></strong></td>
+      <td>A non-rebasing <code>M</code> token wrapper for preserving and forwarding yield</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://github.com/m0-foundation/common">Common</a></strong></td>
+      <td>A set of common contracts and libraries used across other projects</td>
     </tr>
   </tbody>
 </table>
