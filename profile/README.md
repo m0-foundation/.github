@@ -4,11 +4,7 @@
 
 ## M0
 
-M0 is the modular stablecoin infrastructure. For builders who've outgrown one-size-fits-all money.
-
-## M0 Foundation Github
-
-The M0 GitHub organization hosts the codebase for M0's on-chain and off-chain components.
+M0 is the modular stablecoin infrastructure. For builders who've outgrown one-size-fits-all money. The M0 GitHub organization hosts the codebase for M0's on-chain and off-chain components.
 
 <table style="width: 100%;">
   <thead>
